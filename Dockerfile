@@ -1,4 +1,4 @@
-FROM python:latest
+FROM python:alpine
 
 LABEL environment=Production
 LABEL author=Ramkumar JD
