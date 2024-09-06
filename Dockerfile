@@ -1,7 +1,7 @@
 FROM python:alpine
 
 LABEL environment=Production
-LABEL author=Ramkumar JD
+LABEL author=Ramkumar.JD
 LABEL company=REDIVAC
 
 COPY . /app
