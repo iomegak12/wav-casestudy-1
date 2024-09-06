@@ -1,2 +1,7 @@
-nose
-sphinx
+art
+argparse
+python-dotenv
+fastapi
+uvicorn
+sqlalchemy
+pydantic
