@@ -1,7 +1,6 @@
-art
-argparse
+sqlalchemy
+pydantic
 python-dotenv
 fastapi
 uvicorn
-sqlalchemy
-pydantic
+art
